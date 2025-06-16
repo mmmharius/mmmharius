@@ -1,20 +1,17 @@
 <div align="center">
 
-# 🔥 **MARIUS PAPIN** 🔥
+# 🔴 **MARIUS PAPIN** 🔵
 ### `System.out.println("Hello, World!");` 👨‍💻
 
-<table>
-<tr>
-<td align="center">🏫</td>
-<td><b>42 Le Havre</b></td>
-<td align="center">📊</td>
-<td><b>Level 3.2k</b></td>
-<td align="center">🏆</td>
-<td><b>Rank #23</b></td>
-</tr>
-</table>
+<br>
 
-[![42 Stats](https://badge.mediaplus.ma/binary/mpapin?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/mpapin)
+<img src="https://badge.mediaplus.ma/binary/mpapin?1337Badge=off&UM6P=off" style="border: 3px solid #ff0080; border-radius: 15px; box-shadow: 0 0 20px #ff0080, 0 0 40px #ff0080, 0 0 80px #ff0080;" alt="42 Profile"/>
+
+<br><br>
+
+```diff
++ 🏫 42 Le Havre     + 📊 Level 3.2k     + 🏆 Rank #23
+```
 
 </div>
 
@@ -26,31 +23,33 @@
 
 ### ✅ **COMPLETED MISSIONS**
 
-| 🎯 | PROJECT | 💯 SCORE | 🏅 STATUS |
-|:---:|:--------|:--------:|:----------|
-| ![libft](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png) | **LIBFT** | `100/100` | 🟢 **PERFECT** |
-| ![printf](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png) | **FT_PRINTF** | `100/100` | 🟢 **PERFECT** |
-| ![gnl](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png) | **GET_NEXT_LINE** | `100/100` | 🌟 **BONUS** |
-| ![b2br](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png) | **BORN2BEROOT** | `110/100` | ⚡ **EXCELLENT** |
-| ![pushswap](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png) | **PUSH_SWAP** | `95/100` | 🟢 **VALIDATED** |
-| ![solong](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png) | **SO_LONG** | `100/100` | 🟢 **PERFECT** |
-| ![minishell](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishellm.png) | **MINISHELL** | `101/100` | ⚡ **EXCELLENT** |
-| ![pipex](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png) | **PIPEX** | `100/100` | 🟢 **PERFECT** |
+<div style="border: 2px solid #00ff88; border-radius: 10px; padding: 20px; background: linear-gradient(45deg, #0a0a0a, #1a1a2e);">
+
+🎯 ![libft](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png) **LIBFT** `100/100` 🟢 **PERFECT**
+
+🎯 ![printf](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png) **FT_PRINTF** `100/100` 🟢 **PERFECT**
+
+🎯 ![gnl](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png) **GET_NEXT_LINE** `100/100` 🌟 **BONUS**
+
+🎯 ![b2br](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png) **BORN2BEROOT** `110/100` ⚡ **EXCELLENT**
+
+🎯 ![pushswap](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png) **PUSH_SWAP** `95/100` 🟢 **VALIDATED**
+
+🎯 ![solong](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png) **SO_LONG** `100/100` 🟢 **PERFECT**
+
+🎯 ![minishell](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishellm.png) **MINISHELL** `101/100` ⚡ **EXCELLENT**
+
+🎯 ![pipex](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png) **PIPEX** `100/100` 🟢 **PERFECT**
+
+</div>
 
 ### 🔄 **CURRENT MISSION**
 
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png" alt="philosophers" width="80"/>
-</td>
-<td>
-<h3>🧠 PHILOSOPHERS</h3>
-<p><code>Status: IN PROGRESS</code></p>
-<p>🔧 Implementing multithreading & synchronization</p>
-</td>
-</tr>
-</table>
+<div style="border: 2px solid #ff3333; border-radius: 10px; padding: 15px; background: linear-gradient(45deg, #2a0a0a, #2e1a1a);">
+
+🧠 ![philosophers](https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/philosophersm.png) **PHILOSOPHERS** `Status: IN PROGRESS` 🔧 *Implementing multithreading & synchronization*
+
+</div>
 
 </div>
 
@@ -58,44 +57,43 @@
 
 ## 📊 **BATTLE STATS**
 
-<table align="center">
-<tr>
-<td width="50%">
+<div align="center" style="display: flex; justify-content: space-around;">
 
-<h3>🎯 EXAM VICTORIES</h3>
+<div style="border: 2px solid #0088ff; border-radius: 15px; padding: 20px; background: linear-gradient(45deg, #0a0a2a, #1a1a3e); width: 45%;">
 
-```
+### 🎯 **EXAM VICTORIES**
+```css
 🏆 EXAM RANK 02 ████████████ 100%
 🏆 EXAM RANK 03 ████████████ 100%
 ```
 
-<h3>⚡ SKILL TREE</h3>
-
+### ⚡ **SKILL ASSESSMENT**
+```css
+C Programming     ████████████ 90%
+Shell Scripting   ██████████░░ 80%
+System Admin      ████████░░░░ 70%
+Multithreading    ██████░░░░░░ 50%
+Web Development   █████████░░░ 75%
 ```
-C Programming     ████████████ 85%
-Shell Scripting   ██████████░░ 75%
-System Admin      ████████░░░░ 60%
-Multithreading    ██████░░░░░░ 45%
-```
 
-</td>
-<td width="50%">
+</div>
 
-<h3>🚀 GITHUB ACTIVITY</h3>
+<div style="border: 2px solid #ff0080; border-radius: 15px; padding: 20px; background: linear-gradient(45deg, #2a0a1a, #3e1a2e); width: 45%;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpapin42&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Languages" />
+### 🚀 **CODE ACTIVITY**
 
-<h3>📈 42 PROGRESSION</h3>
+*GitHub stats loading...*
 
-```
+### 📈 **42 PROGRESSION**
+```css
 🎯 MILESTONE 1 ✅ COMPLETED
 🎯 MILESTONE 2 🔄 IN PROGRESS  
 🎯 MILESTONE 3 ⏳ LOCKED
 ```
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 ---
 
@@ -103,16 +101,28 @@ Multithreading    ██████░░░░░░ 45%
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=c" width="50"/><br><b>C</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><b>C++</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="50"/><br><b>Bash</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50"/><br><b>Linux</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50"/><br><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vim" width="50"/><br><b>Vim</b></td>
-</tr>
-</table>
+<div style="border: 2px solid #00ff88; border-radius: 20px; padding: 25px; background: linear-gradient(45deg, #0a2a0a, #1a3e1a);">
+
+### 🔵 **SYSTEM PROGRAMMING**
+<img src="https://skillicons.dev/icons?i=c" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #00ff88);"/> 
+<img src="https://skillicons.dev/icons?i=cpp" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #00ff88);"/> 
+<img src="https://skillicons.dev/icons?i=bash" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #00ff88);"/> 
+<img src="https://skillicons.dev/icons?i=linux" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #00ff88);"/>
+
+### 🔴 **WEB & TOOLS**
+<img src="https://skillicons.dev/icons?i=html" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #ff3333);"/> 
+<img src="https://skillicons.dev/icons?i=java" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #ff3333);"/> 
+<img src="https://skillicons.dev/icons?i=git" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #ff3333);"/> 
+<img src="https://skillicons.dev/icons?i=vim" width="60" style="margin: 10px; filter: drop-shadow(0 0 10px #ff3333);"/>
+
+</div>
+
+### 🌐 **PERSONAL PROJECTS**
+```diff
++ 🎓 NexSkool - Educational Platform (HTML/Java)
++ 📺 StreamPlus - Streaming Application  
++ 🔧 VPS Management & DevOps Tools
+```
 
 </div>
 
@@ -122,16 +132,21 @@ Multithreading    ██████░░░░░░ 45%
 
 <div align="center">
 
+<div style="border: 2px solid #ff0080; border-radius: 15px; padding: 20px; background: linear-gradient(45deg, #2a0a2a, #3e1a3e);">
+
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
 │                    🚀 NEXT OBJECTIVES                      │
 ├─────────────────────────────────────────────────────────────┤
 │ 🧠 Master multithreading concepts                          │
-│ 🎮 Build a 3D raycasting engine                            │
-│ 🌐 Explore network programming                             │
+│ 🎮 Build a 3D raycasting engine (CUB3D)                   │
+│ 🌐 Expand web development skills                           │
 │ 🔒 Dive into cybersecurity fundamentals                    │
+│ ⚡ Optimize system performance                              │
 ╰─────────────────────────────────────────────────────────────╯
 ```
+
+</div>
 
 </div>
 
@@ -141,25 +156,21 @@ Multithreading    ██████░░░░░░ 45%
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<a href="https://www.linkedin.com/in/[ton-linkedin]/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div style="border: 2px solid #0088ff; border-radius: 15px; padding: 20px; background: linear-gradient(45deg, #0a0a2a, #1a1a3e);">
+
+<a href="https://www.linkedin.com/in/marius-papin-2507502bb/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border=2px" style="margin: 10px; filter: drop-shadow(0 0 10px #0088ff);" alt="LinkedIn"/>
 </a>
-</td>
-<td align="center">
+
 <a href="mailto:mpapin@student.42lehavre.fr">
-<img src="https://img.shields.io/badge/42_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/42_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 10px; filter: drop-shadow(0 0 10px #ff3333);" alt="Email"/>
 </a>
-</td>
-<td align="center">
+
 <a href="https://github.com/[ton-github]">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin: 10px; filter: drop-shadow(0 0 10px #00ff88);" alt="GitHub"/>
 </a>
-</td>
-</tr>
-</table>
+
+</div>
 
 </div>
 
@@ -167,8 +178,12 @@ Multithreading    ██████░░░░░░ 45%
 
 <div align="center">
 
+<div style="border: 2px solid #ff0080; border-radius: 20px; padding: 15px; background: linear-gradient(45deg, #2a0a2a, #3e1a3e);">
+
 **`while(learning) { code(); }`** 💻✨
 
 *Building the future, one function at a time* 🚀
+
+</div>
 
 </div>
