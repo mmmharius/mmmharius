@@ -5,12 +5,8 @@
 
 <br>
 
-<img src="https://badge.mediaplus.ma/binary/mpapin?1337Badge=off&UM6P=off" style="border: 3px solid #ff0080; border-radius: 15px; box-shadow: 0 0 20px #ff0080, 0 0 40px #ff0080, 0 0 80px #ff0080;" alt="42 Profile"/>
-
-<br><br>
-
 ```diff
-+ 🏫 42 Le Havre     + 📊 Level 3.2k     + 🏆 Rank #23
++ 🏫 42 Le Havre Student     + 💻 System Programmer     + 🚀 Always Learning
 ```
 
 </div>
