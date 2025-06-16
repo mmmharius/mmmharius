@@ -18,7 +18,6 @@
 
 
 </div>
----
 
 ## <span style="color: #FF3366; text-shadow: 0 0 10px #FF3366;">🎮 PROJECTS UNLOCKED</span>
 
@@ -47,7 +46,7 @@
 <tr style="border: 2px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
 <td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" width="40"/> <b>GET_NEXT_LINE</b></td>
 <td style="padding: 15px; color: #FF3366; font-weight: bold;">100/100</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">🌟 BONUS</td>
+<td style="padding: 15px; color: #3366FF; font-weight: bold;">🟢 VALIDATED</td>
 </tr>
 <tr style="border: 2px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
 <td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" width="40"/> <b>BORN2BEROOT</b></td>
@@ -128,7 +127,7 @@ Multithreading    ██████░░░░░░ 60%
 
 ### <span style="color: #3366FF;">🚀 GITHUB ACTIVITY</span>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpapin-42&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Languages" style="border: 2px solid #FF3366; border-radius: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pet-foireux-42&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Languages" style="border: 2px solid #FF3366; border-radius: 10px;"/>
 
 ### <span style="color: #3366FF;">📈 42 PROGRESSION</span>
 
@@ -264,16 +263,6 @@ Multithreading    ██████░░░░░░ 60%
 <th style="padding: 8px;">📝 Description</th>
 </tr>
 <tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/NexSkool_content" style="color: #3366FF;"><b>NexSkool_content</b></a> 🔒</td>
-<td style="padding: 8px; color: #FF3366;">HTML/CSS</td>
-<td style="padding: 8px;">Plateforme éducative web</td>
-</tr>
-<tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/streamplus_py" style="color: #FF3366;"><b>streamplus_py</b></a> 🔒</td>
-<td style="padding: 8px; color: #3366FF;">Python</td>
-<td style="padding: 8px;">Application de streaming avancée</td>
-</tr>
-<tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
 <td style="padding: 8px;"><a href="https://github.com/[ton-github]/philo_testeur" style="color: #3366FF;"><b>philo_testeur</b></a></td>
 <td style="padding: 8px; color: #FF3366;">Shell</td>
 <td style="padding: 8px;">Framework de test pour Philosophers</td>
@@ -306,92 +295,6 @@ Multithreading    ██████░░░░░░ 60%
 <td style="padding: 8px;"><a href="https://github.com/[ton-github]/readme" style="color: #3366FF;"><b>readme</b></a></td>
 <td style="padding: 8px; color: #FF3366;">Markdown</td>
 <td style="padding: 8px;">Ce README que tu regardes ! 😉</td>
-</tr>
-</table>
-
-</div>
-
-</div>
-
----
-
-## <span style="color: #3366FF; text-shadow: 0 0 10px #3366FF;">💾 REPOSITORIES SHOWCASE</span>
-
-<div align="center">
-
-<div style="border: 2px solid #FF3366; border-radius: 15px; padding: 20px; background: rgba(255, 51, 102, 0.1); box-shadow: 0 0 20px rgba(255, 51, 102, 0.3);">
-
-### <span style="color: #FF3366;">🎯 42 School Projects</span>
-
-<table>
-<tr style="background: linear-gradient(45deg, #FF3366, #3366FF); color: white;">
-<th style="padding: 8px;">📂 Repository</th>
-<th style="padding: 8px;">💻 Language</th>
-<th style="padding: 8px;">📝 Description</th>
-</tr>
-<tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_libft" style="color: #FF3366;"><b>42_libft</b></a></td>
-<td style="padding: 8px; color: #3366FF;">C</td>
-<td style="padding: 8px;">Ma propre bibliothèque C</td>
-</tr>
-<tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_ft_printf" style="color: #3366FF;"><b>42_ft_printf</b></a></td>
-<td style="padding: 8px; color: #FF3366;">C</td>
-<td style="padding: 8px;">Recréation de la fonction printf</td>
-</tr>
-<tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_get_next_line" style="color: #FF3366;"><b>42_get_next_line</b></a></td>
-<td style="padding: 8px; color: #3366FF;">C</td>
-<td style="padding: 8px;">Lecture ligne par ligne d'un fichier</td>
-</tr>
-<tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_push_swap" style="color: #3366FF;"><b>42_push_swap</b></a></td>
-<td style="padding: 8px; color: #FF3366;">C</td>
-<td style="padding: 8px;">Algorithme de tri avec 2 stacks</td>
-</tr>
-<tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_so_long" style="color: #FF3366;"><b>42_so_long</b></a></td>
-<td style="padding: 8px; color: #3366FF;">C</td>
-<td style="padding: 8px;">Jeu 2D avec la minilibX</td>
-</tr>
-<tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_pipex" style="color: #3366FF;"><b>42_pipex</b></a></td>
-<td style="padding: 8px; color: #FF3366;">C</td>
-<td style="padding: 8px;">Simulation des pipes shell</td>
-</tr>
-<tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_philosophers" style="color: #FF3366;"><b>42_philosophers</b></a></td>
-<td style="padding: 8px; color: #3366FF;">C</td>
-<td style="padding: 8px;">Problème des philosophes (threading)</td>
-</tr>
-<tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_piscine" style="color: #3366FF;"><b>42_piscine</b></a></td>
-<td style="padding: 8px; color: #FF3366;">C</td>
-<td style="padding: 8px;">Ma piscine 42 - mes débuts</td>
-</tr>
-</table>
-
-</div>
-
-<div style="border: 2px solid #3366FF; border-radius: 15px; padding: 20px; background: rgba(51, 102, 255, 0.1); box-shadow: 0 0 20px rgba(51, 102, 255, 0.3); margin-top: 20px;">
-
-### <span style="color: #3366FF;">🚀 Other Public Projects</span>
-
-<table>
-<tr style="background: linear-gradient(45deg, #3366FF, #FF3366); color: white;">
-<th style="padding: 8px;">📂 Repository</th>
-<th style="padding: 8px;">💻 Language</th>
-<th style="padding: 8px;">📝 Description</th>
-</tr>
-<tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/philo_testeur" style="color: #3366FF;"><b>philo_testeur</b></a></td>
-<td style="padding: 8px; color: #FF3366;">Shell</td>
-<td style="padding: 8px;">Framework de test pour Philosophers</td>
-</tr>
-<tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/.zshrc" style="color: #3366FF;"><b>.zshrc</b></a></td>
-<td style="padding: 8px; color: #FF3366;">Shell</td>
-<td style="padding: 8px;">Ma configuration Zsh personnalisée</td>
 </tr>
 </table>
 
