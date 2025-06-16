@@ -127,7 +127,7 @@ Multithreading    ██████░░░░░░ 60%
 
 ### <span style="color: #3366FF;">🚀 GITHUB ACTIVITY</span>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pet-foireux-42&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Languages" style="border: 2px solid #FF3366; border-radius: 10px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pet-foireux&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Languages" style="border: 2px solid #FF3366; border-radius: 10px;"/>
 
 ### <span style="color: #3366FF;">📈 42 PROGRESSION</span>
 
