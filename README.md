@@ -1,7 +1,6 @@
 <div align="center">
 
 # <span style="color: #FF3366; text-shadow: 0 0 10px #FF3366;">🔥 MARIUS PAPIN 🔥</span>
-### <span style="color: #3366FF; text-shadow: 0 0 10px #3366FF;">`System.out.println("Hello, World!");`</span> 👨‍💻
 
 <div style="border: 2px solid #FF3366; border-radius: 15px; padding: 15px; background: linear-gradient(45deg, #FF3366, #3366FF); box-shadow: 0 0 20px rgba(255, 51, 102, 0.5);">
   <table>
@@ -43,44 +42,44 @@
 <th style="padding: 10px; border-radius: 10px;">🏅 STATUS</th>
 </tr>
 <tr style="border: 2px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" width="40"/> <b>LIBFT</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`100/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" width="40"/> <b>LIBFT</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`100/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
 </tr>
 <tr style="border: 2px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png" width="40"/> <b>FT_PRINTF</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`100/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/ft_printfm.png" width="40"/> <b>FT_PRINTF</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`100/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
 </tr>
 <tr style="border: 2px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" width="40"/> <b>GET_NEXT_LINE</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`100/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">🌟 BONUS</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/get_next_linem.png" width="40"/> <b>GET_NEXT_LINE</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`100/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">🌟 BONUS</td>
 </tr>
 <tr style="border: 2px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" width="40"/> <b>BORN2BEROOT</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`110/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">⚡ EXCELLENT</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/born2berootm.png" width="40"/> <b>BORN2BEROOT</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`110/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">⚡ EXCELLENT</td>
 </tr>
 <tr style="border: 2px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" width="40"/> <b>PUSH_SWAP</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`95/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">🟢 VALIDATED</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/push_swapm.png" width="40"/> <b>PUSH_SWAP</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`95/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">🟢 VALIDATED</td>
 </tr>
 <tr style="border: 2px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" width="40"/> <b>SO_LONG</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`100/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/so_longm.png" width="40"/> <b>SO_LONG</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`100/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
 </tr>
 <tr style="border: 2px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishellm.png" width="40"/> <b>MINISHELL</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`101/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">⚡ EXCELLENT</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/minishellm.png" width="40"/> <b>MINISHELL</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`101/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">⚡ EXCELLENT</td>
 </tr>
 <tr style="border: 2px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 15px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" width="40"/> <b>PIPEX</b></td>
-<td style="padding: 15px; color: #FF3366; font-weight: bold;">`100/100`</td>
-<td style="padding: 15px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
+<td style="padding: 10px; border-radius: 8px;"><img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/pipexm.png" width="40"/> <b>PIPEX</b></td>
+<td style="padding: 10px; color: #FF3366; font-weight: bold;">`100/100`</td>
+<td style="padding: 10px; color: #3366FF; font-weight: bold;">🟢 PERFECT</td>
 </tr>
 </table>
 
