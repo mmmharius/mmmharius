@@ -1,7 +1,6 @@
 <div align="center">
 
 # <span style="color: #FF3366; text-shadow: 0 0 10px #FF3366;"> MARIUS papin </span>
-### <span style="color: #3366FF; text-shadow: 0 0 10px #3366FF;">`System.out.println("Hello, World!");`</span> 👨‍💻
 
 <div style="border: 2px solid #FF3366; border-radius: 15px; padding: 15px; background: linear-gradient(45deg, #FF3366, #3366FF); box-shadow: 0 0 20px rgba(255, 51, 102, 0.5);">
   <table>
