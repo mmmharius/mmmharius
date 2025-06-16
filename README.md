@@ -209,42 +209,42 @@ Multithreading    ██████░░░░░░ 60%
 <th style="padding: 8px;">📝 Description</th>
 </tr>
 <tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_libft" style="color: #FF3366;"><b>42_libft</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_libft" style="color: #FF3366;"><b>42_libft</b></a></td>
 <td style="padding: 8px; color: #3366FF;">C</td>
 <td style="padding: 8px;">Ma propre bibliothèque C</td>
 </tr>
 <tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_ft_printf" style="color: #3366FF;"><b>42_ft_printf</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_ft_printf" style="color: #3366FF;"><b>42_ft_printf</b></a></td>
 <td style="padding: 8px; color: #FF3366;">C</td>
 <td style="padding: 8px;">Recréation de la fonction printf</td>
 </tr>
 <tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_get_next_line" style="color: #FF3366;"><b>42_get_next_line</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_get_next_line" style="color: #FF3366;"><b>42_get_next_line</b></a></td>
 <td style="padding: 8px; color: #3366FF;">C</td>
 <td style="padding: 8px;">Lecture ligne par ligne d'un fichier</td>
 </tr>
 <tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_push_swap" style="color: #3366FF;"><b>42_push_swap</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_push_swap" style="color: #3366FF;"><b>42_push_swap</b></a></td>
 <td style="padding: 8px; color: #FF3366;">C</td>
 <td style="padding: 8px;">Algorithme de tri avec 2 stacks</td>
 </tr>
 <tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_so_long" style="color: #FF3366;"><b>42_so_long</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_so_long" style="color: #FF3366;"><b>42_so_long</b></a></td>
 <td style="padding: 8px; color: #3366FF;">C</td>
 <td style="padding: 8px;">Jeu 2D avec la minilibX</td>
 </tr>
 <tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_pipex" style="color: #3366FF;"><b>42_pipex</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_pipex" style="color: #3366FF;"><b>42_pipex</b></a></td>
 <td style="padding: 8px; color: #FF3366;">C</td>
 <td style="padding: 8px;">Simulation des pipes shell</td>
 </tr>
 <tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_philosophers" style="color: #FF3366;"><b>42_philosophers</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_philosophers" style="color: #FF3366;"><b>42_philosophers</b></a></td>
 <td style="padding: 8px; color: #3366FF;">C</td>
 <td style="padding: 8px;">Problème des philosophes (threading)</td>
 </tr>
 <tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/42_piscine" style="color: #3366FF;"><b>42_piscine</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/42_piscine" style="color: #3366FF;"><b>42_piscine</b></a></td>
 <td style="padding: 8px; color: #FF3366;">C</td>
 <td style="padding: 8px;">Ma piscine 42 - mes débuts</td>
 </tr>
@@ -263,12 +263,12 @@ Multithreading    ██████░░░░░░ 60%
 <th style="padding: 8px;">📝 Description</th>
 </tr>
 <tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/philo_testeur" style="color: #3366FF;"><b>philo_testeur</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/philo_testeur" style="color: #3366FF;"><b>philo_testeur</b></a></td>
 <td style="padding: 8px; color: #FF3366;">Shell</td>
 <td style="padding: 8px;">Framework de test pour Philosophers</td>
 </tr>
 <tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/ft_ls" style="color: #FF3366;"><b>ft_ls</b></a> 🔒</td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/ft_ls" style="color: #FF3366;"><b>ft_ls</b></a> 🔒</td>
 <td style="padding: 8px; color: #3366FF;">C</td>
 <td style="padding: 8px;">Recréation de la commande ls</td>
 </tr>
@@ -287,12 +287,12 @@ Multithreading    ██████░░░░░░ 60%
 <th style="padding: 8px;">📝 Description</th>
 </tr>
 <tr style="border: 1px solid #3366FF; background: rgba(51, 102, 255, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/.zshrc" style="color: #FF3366;"><b>.zshrc</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/.zshrc" style="color: #FF3366;"><b>.zshrc</b></a></td>
 <td style="padding: 8px; color: #3366FF;">Shell</td>
 <td style="padding: 8px;">Ma configuration Zsh personnalisée</td>
 </tr>
 <tr style="border: 1px solid #FF3366; background: rgba(255, 51, 102, 0.05);">
-<td style="padding: 8px;"><a href="https://github.com/[ton-github]/readme" style="color: #3366FF;"><b>readme</b></a></td>
+<td style="padding: 8px;"><a href="https://github.com/pet-foireux/readme" style="color: #3366FF;"><b>readme</b></a></td>
 <td style="padding: 8px; color: #FF3366;">Markdown</td>
 <td style="padding: 8px;">Ce README que tu regardes ! 😉</td>
 </tr>
@@ -323,7 +323,7 @@ Multithreading    ██████░░░░░░ 60%
 </a>
 </td>
 <td align="center" style="padding: 15px;">
-<a href="https://github.com/[ton-github]">
+<a href="https://github.com/pet-foireux">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border: 2px solid #FF3366; border-radius: 10px; box-shadow: 0 0 15px rgba(255, 51, 102, 0.5);"/>
 </a>
 </td>
