@@ -2,6 +2,8 @@
 
 # 👋 **MARIUS PAPIN**
 
+
+
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
 │  🎓 42 Le Havre Student  │  💻 Common Core  │  🚀 Coding  │
@@ -32,7 +34,8 @@
 ## 🎯 **Current Mission**
 
 **🎮 CUB3D** - 🔄 **IN PROGRESS**
-> *Building a 3D raycasting engine*
+
+**Building a 3D raycasting engine**
 
 </div>
 
@@ -48,19 +51,14 @@
 
 <img src="https://img.shields.io/badge/📚_LIBFT-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 <img src="https://img.shields.io/badge/🖨️_FT__PRINTF-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
-
 <img src="https://img.shields.io/badge/📖_GET__NEXT__LINE-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 <img src="https://img.shields.io/badge/⚡_BORN2BEROOT-110/100-brightgreen?style=for-the-badge&logo=linux&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
-
 <img src="https://img.shields.io/badge/🔄_PUSH__SWAP-95/100-yellow?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 <img src="https://img.shields.io/badge/🎮_SO__LONG-100/100-success?style=for-the-badge&logo=gamemaker&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
-
 <img src="https://img.shields.io/badge/🔗_PIPEX-100/100-success?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 <img src="https://img.shields.io/badge/🐚_MINISHELL-101/100-brightgreen?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
-
 <img src="https://img.shields.io/badge/🧠_PHILOSOPHERS-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 <img src="https://img.shields.io/badge/📝_EXAM_RANK_02-100/100-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
-
 <img src="https://img.shields.io/badge/📝_EXAM_RANK_03-100/100-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 
 <div align="center">
