@@ -44,16 +44,19 @@
 
 ### 🏆 **Completed Projects**
 
-[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
-[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
-[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
+<img src="https://img.shields.io/badge/📚_LIBFT-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/🖨️_FT__PRINTF-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 
-[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
-[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
+<img src="https://img.shields.io/badge/📖_GET__NEXT__LINE-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/⚡_BORN2BEROOT-110/100-brightgreen?style=for-the-badge&logo=linux&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 
-[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
-[![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_piscine)
+<img src="https://img.shields.io/badge/🔄_PUSH__SWAP-95/100-yellow?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/🎮_SO__LONG-100/100-success?style=for-the-badge&logo=gamemaker&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/🔗_PIPEX-100/100-success?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/🐚_MINISHELL-101/100-brightgreen?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+
+<img src="https://img.shields.io/badge/🧠_PHILOSOPHERS-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 
 ### 🎖️ **Exam Victories**
 
@@ -88,16 +91,17 @@
 
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
 
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
 [![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
+
 [![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
 [![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
 
 [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
 [![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_piscine)
-[![Philo Testeur](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=philo_testeur&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/philo_testeur)
 
+[![Philo Testeur](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=philo_testeur&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/philo_testeur)
 [![.zshrc](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=.zshrc&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/.zshrc)
 
 </div>
