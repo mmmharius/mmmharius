@@ -20,8 +20,8 @@
 
 ## 📈 **GitHub Analytics**
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues" alt="GitHub Stats"/>
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmharius&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmharius&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 
 </div>
 
@@ -32,8 +32,7 @@
 ## 🎯 **Current Mission**
 
 **🎮 CUB3D** - 🔄 **IN PROGRESS**
-
-**Building a 3D raycasting engine**
+> *Building a 3D raycasting engine*
 
 </div>
 
@@ -47,14 +46,14 @@
 
 [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
 [![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
-
 [![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
-[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
 
+[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
 [![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
 [![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
 
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
+[![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_piscine)
 
 ### 🎖️ **Exam Victories**
 
@@ -85,11 +84,20 @@
 
 <div align="center">
 
-## 🗂️ **Other Projects**
+## 🗂️ **All Projects**
 
+[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
+[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
+
+[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
+[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
+[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
+
+[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
 [![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_piscine)
-
 [![Philo Testeur](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=philo_testeur&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/philo_testeur)
+
 [![.zshrc](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=.zshrc&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/.zshrc)
 
 </div>
