@@ -32,7 +32,7 @@
 ## 🎯 **Current Mission**
 
 **🎮 CUB3D** - 🔄 **IN PROGRESS**
-> *Building a 3D raycasting engine*
+**Building a 3D raycasting engine**
 
 </div>
 
