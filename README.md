@@ -20,7 +20,7 @@
 
 ## 📈 **GitHub Analytics**
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues" alt="GitHub Stats"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues" alt="GitHub Stats"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmharius&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 
 </div>
