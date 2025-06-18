@@ -42,9 +42,7 @@
 
 ## 📊 **42 Journey**
 
-### 🏆 **Completed Projects**
-
-<div align="border-left">
+### 🏆 **Projects**
 
 <img src="https://img.shields.io/badge/📚_LIBFT-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 <img src="https://img.shields.io/badge/🖨️_FT__PRINTF-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
@@ -59,17 +57,11 @@
 <img src="https://img.shields.io/badge/🐚_MINISHELL-101/100-brightgreen?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 
 <img src="https://img.shields.io/badge/🧠_PHILOSOPHERS-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
-
-<div align="border-left">
-
-### 🎖️ **Exam Victories**
-
-<div align="border-left">
-
 <img src="https://img.shields.io/badge/📝_EXAM_RANK_02-100/100-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+
 <img src="https://img.shields.io/badge/📝_EXAM_RANK_03-100/100-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
 
-</div<div align="border-left">>
+</div>
 
 ---
 
