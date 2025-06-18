@@ -38,7 +38,7 @@
 
 ---
 
-<div align="center">
+<div align="border-left">
 
 ## 📊 **42 Journey**
 
