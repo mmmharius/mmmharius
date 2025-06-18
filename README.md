@@ -38,26 +38,30 @@
 
 ---
 
+<div align="center">
+
 ## 📊 **42 Journey**
 
 ### 🏆 **Completed Projects**
-```
-🟢 LIBFT           100/100  ████████████████████████████████████████ 100%
-🟢 FT_PRINTF       100/100  ████████████████████████████████████████ 100%  
-🟢 GET_NEXT_LINE   100/100  ████████████████████████████████████████ 100%
-🟢 BORN2BEROOT     110/100  ████████████████████████████████████████ 110%
-🟡 PUSH_SWAP        95/100  ██████████████████████████████████████░░  95%
-🟢 SO_LONG         100/100  ████████████████████████████████████████ 100%
-🟢 PIPEX           100/100  ████████████████████████████████████████ 100%
-🟢 MINISHELL       101/100  ████████████████████████████████████████ 101%
-🟢 PHILOSOPHERS    100/100  ████████████████████████████████████████ 100%
-```
+
+[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
+[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
+
+[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
+[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
+
+[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
+
+[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
+[![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_piscine)
 
 ### 🎖️ **Exam Victories**
-```
-📝 EXAM RANK 02    100/100  ████████████████████████████████████████ ✅
-📝 EXAM RANK 03    100/100  ████████████████████████████████████████ ✅
-```
+
+<img src="https://img.shields.io/badge/📝_EXAM_RANK_02-100/100-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+<img src="https://img.shields.io/badge/📝_EXAM_RANK_03-100/100-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d3748&color=1a1a1a"/>
+
+</div>
 
 ---
 
@@ -81,32 +85,24 @@
 
 <div align="center">
 
-## 🚀 **Featured Repositories**
+## 🗂️ **All Projects**
 
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
 
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
+[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
+
+[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
+[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
+
 [![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
+[![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_piscine)
+
 [![Philo Testeur](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=philo_testeur&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/philo_testeur)
+[![.zshrc](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=.zshrc&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/.zshrc)
 
 </div>
-
----
-
-## 🗂️ **All Projects**
-
-| Project | Language | Description | Link |
-|---------|----------|-------------|------|
-| 🧠 **42_philosophers** | C | Threading & synchronization | [View](https://github.com/mmmharius/42_philosophers) |
-| 🔄 **42_push_swap** | C | Sorting algorithm with 2 stacks | [View](https://github.com/mmmharius/42_push_swap) |
-| 🔗 **42_pipex** | C | Shell pipe simulation | [View](https://github.com/mmmharius/42_pipex) |
-| 🎮 **42_so_long** | C | 2D game with minilibX | [View](https://github.com/mmmharius/42_so_long) |
-| 📖 **42_get_next_line** | C | Line-by-line file reading | [View](https://github.com/mmmharius/42_get_next_line) |
-| 🖨️ **42_ft_printf** | C | Recreation of printf function | [View](https://github.com/mmmharius/42_ft_printf) |
-| 📚 **42_libft** | C | Custom C library implementation | [View](https://github.com/mmmharius/42_libft) |
-| 🏊 **42_piscine** | C | My 42 Piscine journey | [View](https://github.com/mmmharius/42_piscine) |
-| 🧪 **philo_testeur** | Shell | Testing framework for Philosophers | [View](https://github.com/mmmharius/philo_testeur) |
-| ⚙️ **.zshrc** | Shell | My custom Zsh configuration | [View](https://github.com/mmmharius/.zshrc) |
 
 ---
 
