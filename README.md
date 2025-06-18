@@ -43,7 +43,6 @@
 ## 📊 **42 Journey**
 
 ### 🏆 **Completed Projects**
-<div align="center">
 
 <div align="border-left">
 
@@ -63,11 +62,7 @@
 
 <div align="border-left">
 
-<div align="center">
-
 ### 🎖️ **Exam Victories**
-
-<div align="center">
 
 <div align="border-left">
 
