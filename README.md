@@ -4,7 +4,7 @@
 
 ```ascii
 ╭─────────────────────────────────────────────────────────────╮
-│  🎓 42 Le Havre Student  │  💻 Common Core  │  🚀 Coding  │
+│  🎓 42 Le Havre Student  │  💻 Common Core  │  🚀 Coding    │
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
@@ -20,8 +20,8 @@
 
 ## 📈 **GitHub Analytics**
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues" alt="GitHub Stats"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmharius&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues" alt="GitHub Stats"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmharius&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages"/>
 
 </div>
 
@@ -75,7 +75,6 @@
 ![Linux](https://img.shields.io/badge/Linux-Proficient-2d3748?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a)
 
 ![Git](https://img.shields.io/badge/Git-Advanced-2d3748?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
-![Vim](https://img.shields.io/badge/Vim-Master-2d3748?style=for-the-badge&logo=vim&logoColor=white&labelColor=1a1a1a)
 ![HTML](https://img.shields.io/badge/HTML5-Intermediate-2d3748?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-2d3748?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1a1a)
 
