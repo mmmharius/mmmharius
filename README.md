@@ -8,6 +8,7 @@
 ╰─────────────────────────────────────────────────────────────╯
 ```
 
+![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 [![42 Profile](https://img.shields.io/badge/42-mpapin-1a1a1a?style=for-the-badge&logo=42&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701)](https://profile.intra.42.fr/users/mpapin)
 [![GitHub](https://img.shields.io/badge/GitHub-mmmharius-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701)](https://github.com/mmmharius)
 [![Email](https://img.shields.io/badge/Email-Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701)](mailto:mpapin@student.42lehavre.fr)
