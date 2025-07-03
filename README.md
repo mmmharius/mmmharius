@@ -86,9 +86,9 @@
 ## 🗂️ **All Projects**
 
 [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_cub3d&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&v=20250701)](https://github.com/mmmharius/42_cub3d)
-[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_minishell&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&v=20250701)](https://github.com/mmmharius/42_minishell)
-
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&v=20250701)](https://github.com/mmmharius/42_philosophers)
+
+[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_minishell&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&v=20250701)](https://github.com/mmmharius/42_minishell)
 [![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&v=20250701)](https://github.com/mmmharius/42_push_swap)
 
 [![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&v=20250701)](https://github.com/mmmharius/42_pipex)
