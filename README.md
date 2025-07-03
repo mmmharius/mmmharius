@@ -110,7 +110,6 @@
 ## 🎯 **Next Objectives**
 
 ```
-🔥 CUB3D                - 3D Raycasting Engine
 🌐 WEBSERV              - HTTP Server in C++  
 🎮 FT_TRANSCENDENCE     - Full-Stack Web Project
 🔒 CYBERSECURITY        - Exploring Security Fundamentals
