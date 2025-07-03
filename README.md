@@ -29,11 +29,10 @@
 
 <div align="center">
 
-## 🎯 **Current Mission**
+## 🎯 **Mission actuelle**
 
-**🎮 CUB3D** - 🔄 **IN PROGRESS**
-
-**Building a 3D raycasting engine**
+**🧠 Tronc commun – École 42**  
+**💻 Actuellement sur les projets C++**
 
 </div>
 
