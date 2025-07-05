@@ -20,10 +20,13 @@
 
 ## 📈 **GitHub Analytics**
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues&v=20250701" alt="GitHub Stats"/>
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmharius&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6&v=20250701" alt="Top Languages"/>
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=mmmharius&show_icons=true&theme=dark&hide_border=false&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&count_private=true&hide=issues&v=20250705" alt="GitHub Stats"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmmharius&layout=compact&theme=dark&hide_border=false&bg_color=000000&border_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&langs_count=6&v=20250705" alt="Top Languages"/>
 
 </div>
+
 
 ---
 
