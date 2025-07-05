@@ -123,12 +123,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🧠_C_and_C++-Expert-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-<img src="https://img.shields.io/badge/🐚_Bash_/_Shell-Advanced-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-<img src="https://img.shields.io/badge/🐍_Python-Intermediate-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
+<img src="https://img.shields.io/badge/_C_and_C++-Expert-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
+<img src="https://img.shields.io/badge/_Bash_/_Shell-Advanced-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
+<img src="https://img.shields.io/badge/_Python-Intermediate-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
 <br><br>
-<img src="https://img.shields.io/badge/🖍️_HTML/CSS/JS-Markup-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-<img src="https://img.shields.io/badge/📄_Markdown-Lightweight-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
+<img src="https://img.shields.io/badge/_HTML/CSS/JS-Markup-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
+<img src="https://img.shields.io/badge/_Markdown-Lightweight-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
 
 </div>
 
