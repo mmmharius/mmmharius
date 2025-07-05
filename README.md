@@ -113,7 +113,7 @@
 
 ```
 🌐 WEBSERV              - HTTP Server in C++  
-🎮 FT_TRANSCENDENCE     - Full-Stack Web Project
+🎮 FT_TRANSCENDENCE     - Full-Stack Web Project Multiplayer
 🔒 CYBERSECURITY        - Exploring Security Fundamentals
 ```
 
