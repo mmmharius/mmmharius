@@ -85,7 +85,7 @@
 ---
 <div align="center">
 
-## 🗂️ **All Projects**
+## 🗂️ **All My Projects**
 
 [![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_cub3d&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_cub3d)
 [![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
