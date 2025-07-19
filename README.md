@@ -2,7 +2,8 @@
 
 # 👋 **MARIUS PAPIN**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=400&lines=Student+%40+42+Le+Havre;C%2FC%2B%2B+Developer;System+Programming+Enthusiast;Building+the+future..." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=500&lines=👋+Hi%2C+I'm+MARIUS;Student+%40+42+Le+Havre;Futur+Developer;System+Programming;Building+the+future..." alt="Typing Animation" />
+
 
 
 ```ascii
