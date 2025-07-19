@@ -49,6 +49,7 @@
 
 </div>
 
+<img src="https://img.shields.io/badge/🎮_CUB3D-105/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701"/>
 <img src="https://img.shields.io/badge/🧠_PHILOSOPHERS-100/100-success?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701"/>
 <img src="https://img.shields.io/badge/🐚_MINISHELL-101/100-brightgreen?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701"/>
 <img src="https://img.shields.io/badge/🔄_PUSH__SWAP-95/100-yellow?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701"/>
@@ -71,14 +72,15 @@
 
 ## 🛠️ **Tech Stack**
 
-![C](https://img.shields.io/badge/C-Expert-2d3748?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a&t=20250701)
+![C](https://img.shields.io/badge/C-Advanced-2d3748?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![C++](https://img.shields.io/badge/C++-Learning-2d3748?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![Shell](https://img.shields.io/badge/Shell-Advanced-2d3748?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![Linux](https://img.shields.io/badge/Linux-Proficient-2d3748?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a&t=20250701)
 
 ![Git](https://img.shields.io/badge/Git-Advanced-2d3748?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a&t=20250701)
-![HTML](https://img.shields.io/badge/HTML5-Intermediate-2d3748?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a&t=20250701)
+![HTML](https://img.shields.io/badge/HTML5-Learning-2d3748?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-2d3748?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1a1a&t=20250701)
+![JavaScript](https://img.shields.io/badge/CSS-Learning-2d3748?style=for-the-badge&logo=css&logoColor=white&labelColor=1a1a1a&t=20250701)
 
 </div>
 
@@ -109,23 +111,8 @@
 ```
 🌐 WEBSERV              - HTTP Server in C++  
 🎮 FT_TRANSCENDENCE     - Full-Stack Web Project Multiplayer
-🔒 CYBERSECURITY        - Exploring Security Fundamentals
+🔒 OS/Kernel            - Exploring the computer
 ```
-
----
-
-## 🛠️ **Skills & Technologies**
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/_C_and_C++-Expert-000000?style=for-the-badge&logo=c&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-<img src="https://img.shields.io/badge/_Bash_/_Shell-Advanced-000000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-<img src="https://img.shields.io/badge/_Python-Intermediate-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-<br><br>
-<img src="https://img.shields.io/badge/_HTML/CSS/JS-Markup-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-<img src="https://img.shields.io/badge/_Markdown-Lightweight-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=2d3748&color=1a1a1a&border=1&borderColor=58a6ff" />
-
-</div>
 
 
 ---
@@ -134,8 +121,9 @@
 
 ### 🌟 *"Code is poetry written in logic"* 🌟
 
-**Currently diving deep into 3D graphics programming**
-
-<img src="https://komarev.com/ghpvc/?username=mmmharius&label=Profile%20views&color=2d3748&style=flat&t=20250701" alt="Profile Views" />
+<!-- Badge temps réel avec l'API GitHub -->
+![Profile Views](https://komarev.com/ghpvc/?username=mmmharius&style=for-the-badge&color=58a6ff&label=Visitors)
+![Stars](https://img.shields.io/github/stars/mmmharius?style=for-the-badge&logo=github&color=58a6ff)
+![Followers](https://img.shields.io/github/followers/mmmharius?style=for-the-badge&logo=github&color=58a6ff)
 
 </div>
