@@ -42,88 +42,24 @@
 </div>
 
 ---
-
 <div align="center">
 
 ## 🗂️ **All My Projects**
 
-<table>
-<tr>
-<td width="50%">
-
-[![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_cub3d&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_cub3d)
-**🎮 CUB3D** `105/100` 🔥
-
-</td>
-<td width="50%">
-
-[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
-**🧠 PHILOSOPHERS** `100/100` ✅
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_minishell&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_minishell)
-**🐚 MINISHELL** `101/100` 🔥
-
-</td>
-<td width="50%">
-
-[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
-**🔄 PUSH_SWAP** `95/100` ⚡
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
-**🔗 PIPEX** `100/100` ✅
-
-</td>
-<td width="50%">
-
-[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
-**🎮 SO_LONG** `100/100` ✅
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
-**📖 GET_NEXT_LINE** `100/100` ✅
-
-</td>
-<td width="50%">
-
-[![Born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_born2beroot&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_born2beroot)
-**⚡ BORN2BEROOT** `110/100` 🔥
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
-**🖨️ FT_PRINTF** `100/100` ✅
-
-</td>
-<td width="50%">
-
-[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
-**📚 LIBFT** `100/100` ✅
-
-</td>
-</tr>
-</table>
-
-**🏆 Achievements:** `EXAM RANK 02` **100/100** | `EXAM RANK 03` **100/100**
+[![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_cub3d&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_cub3d)
+[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_philosophers)
+[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_minishell&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_minishell)
+[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_push_swap)
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_pipex)
+[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_so_long)
+[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_get_next_line)
+[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_ft_printf)
+[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_libft)
+[![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_piscine)
+[![Philo Testeur](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=philo_testeur&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/philo_testeur)
+[![.zshrc](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=.zshrc&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/.zshrc)
 
 </div>
-
 ---
 
 <div align="center">
