@@ -123,7 +123,5 @@
 
 <!-- Badge temps réel avec l'API GitHub -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mmmharius&style=for-the-badge&color=58a6ff&label=Visitors)
-![Stars](https://img.shields.io/github/stars/mmmharius?style=for-the-badge&logo=github&color=58a6ff)
-![Followers](https://img.shields.io/github/followers/mmmharius?style=for-the-badge&logo=github&color=58a6ff)
 
 </div>
