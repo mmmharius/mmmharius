@@ -45,6 +45,89 @@
 
 <div align="center">
 
+## 🗂️ **All My Projects**
+
+<table>
+<tr>
+<td width="50%">
+
+[![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_cub3d&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_cub3d)
+**🎮 CUB3D** `105/100` 🔥
+
+</td>
+<td width="50%">
+
+[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_philosophers)
+**🧠 PHILOSOPHERS** `100/100` ✅
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_minishell&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_minishell)
+**🐚 MINISHELL** `101/100` 🔥
+
+</td>
+<td width="50%">
+
+[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_push_swap)
+**🔄 PUSH_SWAP** `95/100` ⚡
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_pipex)
+**🔗 PIPEX** `100/100` ✅
+
+</td>
+<td width="50%">
+
+[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_so_long)
+**🎮 SO_LONG** `100/100` ✅
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_get_next_line)
+**📖 GET_NEXT_LINE** `100/100` ✅
+
+</td>
+<td width="50%">
+
+[![Born2beroot](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_born2beroot&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_born2beroot)
+**⚡ BORN2BEROOT** `110/100` 🔥
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_ft_printf)
+**🖨️ FT_PRINTF** `100/100` ✅
+
+</td>
+<td width="50%">
+
+[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9)](https://github.com/mmmharius/42_libft)
+**📚 LIBFT** `100/100` ✅
+
+</td>
+</tr>
+</table>
+
+**🏆 Achievements:** `EXAM RANK 02` **100/100** | `EXAM RANK 03` **100/100**
+
+</div>
+
+
+---
+<div align="center">
+
 ## 📊 **42 Journey**
 
 ### 🏆 **Projects**
@@ -65,6 +148,7 @@
 <img src="https://img.shields.io/badge/📝_EXAM_RANK_03-100/100-success?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d3748&color=1a1a1a&t=20250701"/>
 
 <div align="center">
+
 
 </div>
 
