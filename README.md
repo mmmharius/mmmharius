@@ -37,29 +37,19 @@
 ## 🎯 **Mission actuelle**
 
 **🧠 Tronc commun – École 42**  
-**💻 Actuellement sur les projets C++**
+**💻 Actuellement sur les modules C++**
 
 </div>
 
 ---
 <div align="center">
 
-## 🗂️ **All My Projects**
+## 🗂️ **All My 42 Projects**
 
-[![Cub3D](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_cub3d&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_cub3d)
-[![Philosophers](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_philosophers&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_philosophers)
-[![Minishell](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_minishell&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_minishell)
-[![Push Swap](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_push_swap&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_push_swap)
-[![Pipex](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_pipex&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_pipex)
-[![So Long](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_so_long&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_so_long)
-[![Get Next Line](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_get_next_line&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_get_next_line)
-[![Ft Printf](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_ft_printf&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_ft_printf)
-[![Libft](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_libft&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_libft)
-[![Piscine](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=42_piscine&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/42_piscine)
-[![Philo Testeur](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=philo_testeur&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/philo_testeur)
-[![.zshrc](https://github-readme-stats.vercel.app/api/pin/?username=mmmharius&repo=.zshrc&theme=dark&bg_color=000000&border_color=58a6ff&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&cache_seconds=0)](https://github.com/mmmharius/.zshrc)
+[![42 Projects Organization](https://img.shields.io/badge/View_All_17_Projects-mmmharius42-58a6ff?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a)](https://github.com/mmmharius42)
 
 </div>
+
 ---
 
 <div align="center">
@@ -67,14 +57,14 @@
 ## 🛠️ **Tech Stack**
 
 ![C](https://img.shields.io/badge/C-Advanced-2d3748?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a&t=20250701)
-![C++](https://img.shields.io/badge/C++-Learning-2d3748?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a&t=20250701)
+![C++](https://img.shields.io/badge/C++-Advanced-2d3748?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![Shell](https://img.shields.io/badge/Shell-Advanced-2d3748?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![Linux](https://img.shields.io/badge/Linux-Proficient-2d3748?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a&t=20250701)
 
 ![Git](https://img.shields.io/badge/Git-Advanced-2d3748?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![HTML](https://img.shields.io/badge/HTML5-Learning-2d3748?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a&t=20250701)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Learning-2d3748?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1a1a&t=20250701)
-![JavaScript](https://img.shields.io/badge/CSS-Learning-2d3748?style=for-the-badge&logo=css&logoColor=white&labelColor=1a1a1a&t=20250701)
+![CSS](https://img.shields.io/badge/CSS-Learning-2d3748?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1a1a&t=20250701)
 
 </div>
 
@@ -94,8 +84,5 @@
 <div align="center">
 
 ### 🌟 *"Code is poetry written in logic"* 🌟
-
-<!-- Badge temps réel avec l'API GitHub -->
-![Profile Views](https://komarev.com/ghpvc/?username=mmmharius&style=for-the-badge&color=58a6ff&label=Visitors)
 
 </div>
