@@ -77,12 +77,3 @@
 🎮 FT_TRANSCENDENCE     - Full-Stack Web Project Multiplayer
 🔒 OS/Kernel            - Exploring the computer
 ```
-
-
----
-
-<div align="center">
-
-### 🌟 *"Code is poetry written in logic"* 🌟
-
-</div>
