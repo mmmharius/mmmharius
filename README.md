@@ -73,7 +73,6 @@
 ## 🎯 **Next Objectives**
 
 ```
-🌐 WEBSERV              - HTTP Server in C++  
 🎮 FT_TRANSCENDENCE     - Full-Stack Web Project Multiplayer
 🔒 OS/Kernel            - Exploring the computer
 ```
