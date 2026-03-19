@@ -16,7 +16,7 @@
 </div>
 
 <details open>
-  <summary><h2>📈 GitHub Analytics</h2></summary>
+  <summary><b>📈 GitHub Analytics</b></summary>
 
   <div align="center">
     <a href="https://git.io/streak-stats">
@@ -26,7 +26,7 @@
 </details>
 
 <details open>
-  <summary><h2>🎯 Current Focus</h2></summary>
+  <summary><b>🎯 Current Focus</b></summary>
 
   <div align="center">
 
@@ -37,7 +37,7 @@
 </details>
 
 <details open>
-  <summary><h2>🗂️ All My 42 Projects</h2></summary>
+  <summary><b>🗂️ All My 42 Projects</b></summary>
 
   <div align="center">
 
@@ -47,7 +47,7 @@
 </details>
 
 <details open>
-  <summary><h2>🛠️ Tech Stack</h2></summary>
+  <summary><b>🛠️ Tech Stack</b></summary>
 
   <div align="center">
 
@@ -61,7 +61,7 @@
 </details>
 
 <details open>
-  <summary><h2>🎯 Next Objectives</h2></summary>
+  <summary><b>🎯 Next Objectives</b></summary>
 
   <div align="center">
 
