@@ -1,12 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Marius;Student+at+42+Le+Havre;Developer;System+Programming;Building+the+future..." alt="Typing Animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:58a6ff&height=80&section=header&text=42%20Le%20Havre%20%7C%20Common%20Core&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
-```ascii
-╭─────────────────────────────────────────────────────────────╮
-│  🎓 42 Le Havre Student  │  💻 Common Core  │  🚀 Coding   │
-╰─────────────────────────────────────────────────────────────╯
-```
 
 [![42 Profile](https://img.shields.io/badge/42-mpapin-1a1a1a?style=for-the-badge&logo=42&logoColor=white&labelColor=2d3748&color=1a1a1a)](https://profile.intra.42.fr/users/mpapin)
 [![GitHub](https://img.shields.io/badge/GitHub-mmmharius-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3748&color=1a1a1a)](https://github.com/mmmharius)
@@ -16,7 +11,7 @@
 </div>
 
 <details open>
-  <summary><b>📈 GitHub Analytics</b></summary>
+  <summary><b>GitHub Analytics 📈 </b></summary>
 
   <div align="center">
     <a href="https://git.io/streak-stats">
@@ -27,17 +22,14 @@
 
 <details open>
   <summary><b>🎯 Current Focus</b></summary>
-
   <div align="center">
-
-  **🧠 Common Core — École 42 Le Havre**
-  **💻 Exam Rank 06 — in progress**
-
+    <b>Common Core — 42 Le Havre Student</b><br/>
+    <b>Exam Rank 06 — in progress</b>
   </div>
 </details>
 
 <details open>
-  <summary><b>🗂️ All My 42 Projects</b></summary>
+  <summary><b>All My 42 Projects 🗂️ </b></summary>
 
   <div align="center">
 
@@ -47,7 +39,7 @@
 </details>
 
 <details open>
-  <summary><b>🛠️ Tech Stack</b></summary>
+  <summary><b>Tech Stack 🛠️ </b></summary>
 
   <div align="center">
 
@@ -61,13 +53,15 @@
 </details>
 
 <details open>
-  <summary><b>🎯 Next Objectives</b></summary>
+  <summary><b>Next Objectives 🎯 </b></summary>
 
   <div align="center">
 
   ```
-  🔒 OS/Kernel   — Exploring the depths of the machine
+   OS/Kernel   — Exploring the depths of the machine
   ```
 
   </div>
 </details>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=80&section=footer&animation=fadeIn"/>
