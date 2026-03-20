@@ -65,4 +65,4 @@
   </div>
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=125&section=footer&animation=fadeIn"/>
