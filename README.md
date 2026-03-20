@@ -1,10 +1,8 @@
 <div align="center">
 
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=200&section=header&text=Hey,%20I'm%20mmmharius%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
-
 
 [![42 Profile](https://img.shields.io/badge/42-mpapin-1a1a1a?style=for-the-badge&logo=42&logoColor=white&labelColor=2d3748&color=1a1a1a)](https://profile.intra.42.fr/users/mpapin)
 [![GitHub](https://img.shields.io/badge/GitHub-mmmharius-1a1a1a?style=for-the-badge&logo=github&logoColor=white&labelColor=2d3748&color=1a1a1a)](https://github.com/mmmharius)
@@ -16,7 +14,7 @@
 <details open>
   <summary><b>GitHub Analytics 📈 </b></summary>
 
-  <div align="center">
+  <div align="center">  
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=mmmharius&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190&dates=58A6FF" alt="GitHub Streak"/>
     </a>
@@ -67,4 +65,4 @@
   </div>
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a2332,100:0d1117&height=80&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=80&section=footer&animation=fadeIn"/>
