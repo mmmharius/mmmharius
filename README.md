@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=125&section=header&text=Hey,%20I'm%20mmmharius%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=125&section=header&text=Hey,%20I'm%20mmmharius%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 [![42 Profile](https://img.shields.io/badge/42-mpapin-1a1a1a?style=for-the-badge&logo=42&logoColor=white&labelColor=2d3748&color=1a1a1a)](https://profile.intra.42.fr/users/mpapin)
