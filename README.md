@@ -44,11 +44,15 @@
 
   <div align="center">
 
-  ![C](https://img.shields.io/badge/C-2d3748?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a)
-  ![C++](https://img.shields.io/badge/C++-2d3748?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
-  ![Shell](https://img.shields.io/badge/Shell-2d3748?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a)
-  ![Linux](https://img.shields.io/badge/Linux-2d3748?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a)
-  ![Git](https://img.shields.io/badge/Git-2d3748?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white)
 
   </div>
 </details>
