@@ -44,11 +44,11 @@
 
   <div align="center">
 
-  ![C](https://img.shields.io/badge/C-Advanced-2d3748?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a)
-  ![C++](https://img.shields.io/badge/C++-Advanced-2d3748?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
-  ![Shell](https://img.shields.io/badge/Shell-Advanced-2d3748?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a)
-  ![Linux](https://img.shields.io/badge/Linux-Proficient-2d3748?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a)
-  ![Git](https://img.shields.io/badge/Git-Advanced-2d3748?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+  ![C](https://img.shields.io/badge/C-2d3748?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a)
+  ![C++](https://img.shields.io/badge/C++-2d3748?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a)
+  ![Shell](https://img.shields.io/badge/Shell-2d3748?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=1a1a1a)
+  ![Linux](https://img.shields.io/badge/Linux-2d3748?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a)
+  ![Git](https://img.shields.io/badge/Git-2d3748?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
 
   </div>
 </details>
