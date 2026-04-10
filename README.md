@@ -22,14 +22,6 @@
 </details>
 
 <details open>
-  <summary><b>🎯 Current Focus</b></summary>
-  <div align="center">
-    <b>Common Core — 42 Le Havre Student</b><br/>
-    <b>Exam Rank 06 — in progress</b>
-  </div>
-</details>
-
-<details open>
   <summary><b>All My 42 Projects 🗂️ </b></summary>
 
   <div align="center">
@@ -51,16 +43,5 @@
   </div>
 </details>
 
-<details open>
-  <summary><b>Next Objectives 🎯 </b></summary>
-
-  <div align="center">
-
-  ```
-   OS/Kernel   — Exploring the depths of the machine
-  ```
-
-  </div>
-</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=125&section=footer&animation=fadeIn"/>
