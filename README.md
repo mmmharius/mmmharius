@@ -10,17 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-Contact-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2d3748&color=1a1a1a)](mailto:mpapin@student.42lehavre.fr)
 
 </div>
-
-<details open>
-  <summary><b>GitHub Analytics 📈 </b></summary>
-
-  <div align="center">  
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=mmmharius&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190&dates=58A6FF" alt="GitHub Streak"/>
-    </a>
-  </div>
-</details>
-
 <details open>
   <summary><b>All My 42 Projects 🗂️ </b></summary>
 
@@ -43,5 +32,14 @@
   </div>
 </details>
 
+<details open>
+  <summary><b>GitHub Analytics 📈 </b></summary>
+
+  <div align="center">  
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=mmmharius&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190&dates=58A6FF" alt="GitHub Streak"/>
+    </a>
+  </div>
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=125&section=footer&animation=fadeIn"/>
