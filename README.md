@@ -11,7 +11,7 @@
 
 </div>
 <details open>
-  <summary><b>All My 42 Projects 🗂️ </b></summary>
+  <summary><b>All My 42 Projects </b></summary>
 
   <div align="center">
 
