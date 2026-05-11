@@ -37,7 +37,7 @@
 
   <div align="center">  
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=mmmharius&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190&dates=58A6FF" alt="GitHub Streak"/>
+      <img src="https://streak-stats.demolab.com/?user=mmmharius&theme=dark&hide_border=false&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190&dates=58A6FF" alt="GitHub Streak"/>
     </a>
   </div>
 </details>
