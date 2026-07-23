@@ -20,7 +20,7 @@
 </div>
 
 
-<b>Tech Stack 🛠️ </b>
+<b>Tech Stack</b>
 
 <div align="center">
 <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@
 
 
 
-<b>GitHub Analytics 📈 </b>
+<b>GitHub Analytics</b>
 
 <div align="center">  
 <a href="https://git.io/streak-stats">
